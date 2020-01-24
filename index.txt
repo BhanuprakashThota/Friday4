@@ -1,0 +1,17 @@
+Carefully follow the instructions for the "Downloading the Oracle Database Software" section to download.
+ 
+
+Right-click on your winx64_12201_database(or similarly named) folder and click "Properties". 
+
+
+Extract the zip file and check the properties, total size should be 2.8GB
+
+
+Verify this is correct.  This is very important for a successful installation.
+
+Reply with the standard subject line.  Include a screenshot showing the properties of your combined folder (right-click on the folder and select Properties). 
+
+You may choose to install your systems on iOS or Linux systems if you prefer - just look for the associated directions. (We only provide support for Windows installations.)
+
+You may find the following video helpful for D03 and D04 (but the instructions above take precedence):  
+https://www.youtube.com/watch?v=vAUNgaYJSw0
